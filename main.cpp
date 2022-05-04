@@ -1,5 +1,5 @@
-mlòm#include<iostream>
-
+#include<iostream>
+acknpanc
 using namespace std;
 
 
